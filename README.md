@@ -35,9 +35,7 @@ Here are some cool links. Feel free to add
  * [Design Patterns](https://sourcemaking.com/design_patterns), also a catalog or an e-book.
  * [Chef Basics for Rails Developers](https://launchschool.com/blog/chef-basics-for-rails-developer)
  * [thoughtbot/guides](https://github.com/thoughtbot/guides)
- * [“Eat, sleep, code, repeat” is such bullshit](https://m.signalvnoise.com/eat-sleep-code-repeat-is-such-bullshit-c2a4d9beaaf5?gi=b31ff00494f)
  * [database architecture](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pd)
- * [Top developers can have a life outside coding](http://www.belenalbeza.com/top-developers-can-have-a-life-outside-coding)
  * [My experience with Minitest and RSpec](http://tenderlovemaking.com/2015/01/23/my-experience-with-minitest-and-rspec.htm)
  * [A Beginners Guide to Package Manager Bower and Using Gulp to Manage Components](http://andy-carter.com/blog/a-beginners-guide-to-package-manager-bower-and-using-gulp-to-manage-component)
 
@@ -48,3 +46,9 @@ Here are some cool links. Feel free to add
 
  * [The amazing power of word vectors] (https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors)
  * [The Bad Data Guide](https://github.com/Quartz/bad-data-guide)
+
+### On Balance
+
+ * [“Eat, sleep, code, repeat” is such bullshit](https://m.signalvnoise.com/eat-sleep-code-repeat-is-such-bullshit-c2a4d9beaaf5?gi=b31ff00494f)
+ * [Top developers can have a life outside coding](http://www.belenalbeza.com/top-developers-can-have-a-life-outside-coding)
+ * [It's Not Your Fault: The Role of Environment in Burnout](https://medium.com/keep-learning-keep-growing/it-s-not-your-fault-7907e40e2226#.wprn1fpft), by Jamis Buck
