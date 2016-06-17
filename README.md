@@ -29,7 +29,7 @@ Here are some cool links. Feel free to add
 
  * [Recipe: git bisect](http://www.benjaminoakes.com/2014/04/29/recipe-git-bisect)
  * [Deploy Rails Applications with Capistrano 3](https://launchschool.com/blog/deploy-rails-apps-with-capistran)
- * [Reliably Deploying Rails… by Ben Dixon](https://leanpub.com/deploying_rails_application)
+ * [Reliably Deploying Rails...by Ben Dixon](https://leanpub.com/deploying_rails_application)
  * [Catalog of Refactorings](http://refactoring.com/catalog/?filter=books-rubyref,books-radio-appea)
  * [Another catalog of Refactorings](https://sourcemaking.com/refactoring), a catalog or an e-book, depending on which way you hold it
  * [Design Patterns](https://sourcemaking.com/design_patterns), also a catalog or an e-book.
