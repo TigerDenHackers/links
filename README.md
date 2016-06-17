@@ -39,8 +39,12 @@ Here are some cool links. Feel free to add
  * [database architecture](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pd)
  * [Top developers can have a life outside coding](http://www.belenalbeza.com/top-developers-can-have-a-life-outside-coding)
  * [My experience with Minitest and RSpec](http://tenderlovemaking.com/2015/01/23/my-experience-with-minitest-and-rspec.htm)
- * [The amazing power of word vectors] (https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors)
  * [A Beginners Guide to Package Manager Bower and Using Gulp to Manage Components](http://andy-carter.com/blog/a-beginners-guide-to-package-manager-bower-and-using-gulp-to-manage-component)
 
  * [Symbiosis - A Provocation About Organizations](https://drive.google.com/a/continuity.net/file/d/0B8ZX1RoWHuiJSnZHZFJqOERqaDg/view)
   > There are companies that see how software is woven deeply into the fabric of the business, and companies that don’t. ... The distinction between these two frames is crucial. Software is both the skeleton and the nervous system of many businesses today. Companies ... increasingly depend upon an understanding of the relationship between software and the organization around it.
+
+### Data Science
+
+ * [The amazing power of word vectors] (https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors)
+ * [The Bad Data Guide](https://github.com/Quartz/bad-data-guide)
