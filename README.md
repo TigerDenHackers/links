@@ -2,21 +2,28 @@
 Here are some cool links. Feel free to add
 
 ## Videos
+
  * [Robert C Martin - Functional Programming; What? Why? When?](http://www.youtube.com/watch?v=7Zlp9rKHGD4)
- * [Robert C Martin - Clean Architecture and Design](http://www.youtube.com/watch?v=Nsjsiz2A9mg)
- * ["Uncle" Bob Martin](http://www.youtube.com/watch?v=QHnLmvDxGTY)
- * [Microservices - Martin Fowler](http://www.youtube.com/watch?v=wgdBVIX9ifA)
  * [The Value of Values with Rich Hickey](http://www.youtube.com/watch?v=-6BsiVyC1kM)
  * [The Language of the System - Rich Hickey](http://www.youtube.com/watch?v=ROor6_NGIWU)
- * [RailsConf 2014 - All the Little Things by Sandi Metz](http://www.youtube.com/watch?v=8bZh5LMaSmE)
- * [RailsConf 2016 - Get a Whiff of This by Sandi Metz](http://www.youtube.com/watch?v=PJjHfa5yxlU)
- * [GORUCO 2009 - SOLID Object-Oriented Design by Sandi Metz](http://www.youtube.com/watch?v=v-2yFMzxqwU)
  * [RailsConf 2016 - Opening Day 3 Keynote by Aaron Patterson](http://www.youtube.com/watch?v=xMFs9DTympQ)
  * [RailsConf 2016 - Turbolinks 5: I Can't Believe It's Not Native! by Sam Stephenson](http://www.youtube.com/watch?v=SWEts0rlezA)
  * [RailsConf 2016 - Day 1 Closing Keynote: Skunk Works by Nickolas Means](http://www.youtube.com/watch?v=ggPE-JHzfAM)
- * [RailsConf 2016 - Succession by Katrina Owen](http://www.youtube.com/watch?v=59YClXmkCVM)
- * [RailsConf 2015 - Nothing is Something](http://www.youtube.com/watch?v=OMPfEXIlTVE)
+
+### Object-Oriented Design
+
  * [RubyConf 2009 - SOLID Ruby by: Jim Weirich](http://www.youtube.com/watch?v=dKRbsE061u4)
+ * [GORUCO 2009 - SOLID Object-Oriented Design by Sandi Metz](http://www.youtube.com/watch?v=v-2yFMzxqwU)
+ * ["Uncle" Bob Martin at Yale](http://www.youtube.com/watch?v=QHnLmvDxGTY)
+ * [RailsConf 2014 - All the Little Things by Sandi Metz](http://www.youtube.com/watch?v=8bZh5LMaSmE)
+ * [RailsConf 2015 - Nothing is Something](http://www.youtube.com/watch?v=OMPfEXIlTVE)
+ * [RailsConf 2016 - Get a Whiff of This by Sandi Metz](http://www.youtube.com/watch?v=PJjHfa5yxlU)
+ * [RailsConf 2016 - Succession by Katrina Owen](http://www.youtube.com/watch?v=59YClXmkCVM)
+
+### Architecture
+
+ * [Robert C Martin - Clean Architecture and Design](http://www.youtube.com/watch?v=Nsjsiz2A9mg)
+ * [Microservices - Martin Fowler](http://www.youtube.com/watch?v=wgdBVIX9ifA)
 
 ## Articles, Repos, Etc.
 
