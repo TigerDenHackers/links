@@ -31,6 +31,8 @@ Here are some cool links. Feel free to add
  * [Deploy Rails Applications with Capistrano 3](https://launchschool.com/blog/deploy-rails-apps-with-capistran)
  * [Reliably Deploying Rails… by Ben Dixon](https://leanpub.com/deploying_rails_application)
  * [Catalog of Refactorings](http://refactoring.com/catalog/?filter=books-rubyref,books-radio-appea)
+ * [Another catalog of Refactorings](https://sourcemaking.com/refactoring), a catalog or an e-book, depending on which way you hold it
+ * [Design Patterns](https://sourcemaking.com/design_patterns), also a catalog or an e-book.
  * [Chef Basics for Rails Developers](https://launchschool.com/blog/chef-basics-for-rails-developer)
  * [thoughtbot/guides](https://github.com/thoughtbot/guide)
  * [“Eat, sleep, code, repeat” is such bullshit](https://m.signalvnoise.com/eat-sleep-code-repeat-is-such-bullshit-c2a4d9beaaf5?gi=b31ff00494f)
