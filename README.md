@@ -34,7 +34,7 @@ Here are some cool links. Feel free to add
  * [Another catalog of Refactorings](https://sourcemaking.com/refactoring), a catalog or an e-book, depending on which way you hold it
  * [Design Patterns](https://sourcemaking.com/design_patterns), also a catalog or an e-book.
  * [Chef Basics for Rails Developers](https://launchschool.com/blog/chef-basics-for-rails-developer)
- * [thoughtbot/guides](https://github.com/thoughtbot/guide)
+ * [thoughtbot/guides](https://github.com/thoughtbot/guides)
  * [“Eat, sleep, code, repeat” is such bullshit](https://m.signalvnoise.com/eat-sleep-code-repeat-is-such-bullshit-c2a4d9beaaf5?gi=b31ff00494f)
  * [database architecture](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pd)
  * [Top developers can have a life outside coding](http://www.belenalbeza.com/top-developers-can-have-a-life-outside-coding)
