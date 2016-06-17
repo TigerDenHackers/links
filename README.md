@@ -28,16 +28,16 @@ Here are some cool links. Feel free to add
 ## Articles, Repos, Etc.
 
  * [Recipe: git bisect](http://www.benjaminoakes.com/2014/04/29/recipe-git-bisect)
- * [Deploy Rails Applications with Capistrano 3](https://launchschool.com/blog/deploy-rails-apps-with-capistran)
+ * [Deploy Rails Applications with Capistrano 3](https://launchschool.com/blog/deploy-rails-apps-with-capistrano)
  * [Reliably Deploying Rails...by Ben Dixon](https://leanpub.com/deploying_rails_applications)
  * [Catalog of Refactorings](http://refactoring.com/catalog/?filter=books-rubyref,books-radio-appea)
  * [Another catalog of Refactorings](https://sourcemaking.com/refactoring), a catalog or an e-book, depending on which way you hold it
  * [Design Patterns](https://sourcemaking.com/design_patterns), also a catalog or an e-book.
- * [Chef Basics for Rails Developers](https://launchschool.com/blog/chef-basics-for-rails-developer)
+ * [Chef Basics for Rails Developers](https://launchschool.com/blog/chef-basics-for-rails-developers)
  * [thoughtbot/guides](https://github.com/thoughtbot/guides)
- * [database architecture](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pd)
- * [My experience with Minitest and RSpec](http://tenderlovemaking.com/2015/01/23/my-experience-with-minitest-and-rspec.htm)
- * [A Beginners Guide to Package Manager Bower and Using Gulp to Manage Components](http://andy-carter.com/blog/a-beginners-guide-to-package-manager-bower-and-using-gulp-to-manage-component)
+ * [database architecture](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf)
+ * [My experience with Minitest and RSpec](http://tenderlovemaking.com/2015/01/23/my-experience-with-minitest-and-rspec.html)
+ * [A Beginners Guide to Package Manager Bower and Using Gulp to Manage Components](http://andy-carter.com/blog/a-beginners-guide-to-package-manager-bower-and-using-gulp-to-manage-components)
 
  * [Symbiosis - A Provocation About Organizations](https://drive.google.com/a/continuity.net/file/d/0B8ZX1RoWHuiJSnZHZFJqOERqaDg/view)
   > There are companies that see how software is woven deeply into the fabric of the business, and companies that don’t. ... The distinction between these two frames is crucial. Software is both the skeleton and the nervous system of many businesses today. Companies ... increasingly depend upon an understanding of the relationship between software and the organization around it.
