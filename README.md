@@ -50,6 +50,7 @@ Here are some cool links. Feel free to add
 
 ### Data Science
 
+ * [The Open-Source Data Science Masters](http://datasciencemasters.org/) "The open-source curriculum for learning Data Science. Foundational in both theory and technologies, the OSDSM breaks down the core competencies necessary to making use of data."
  * [The amazing power of word vectors] (https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors)
  * [The Bad Data Guide](https://github.com/Quartz/bad-data-guide)
 
