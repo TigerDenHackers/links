@@ -25,6 +25,9 @@ Here are some cool links. Feel free to add
  * [Robert C Martin - Clean Architecture and Design](http://www.youtube.com/watch?v=Nsjsiz2A9mg)
  * [Microservices - Martin Fowler](http://www.youtube.com/watch?v=wgdBVIX9ifA)
 
+### Teams
+  * [Spotify Engineering Culture](https://www.youtube.com/watch?v=R2o-Xm3UVjs)
+
 ## Articles, Repos, Etc.
 
  * [Recipe: git bisect](http://www.benjaminoakes.com/2014/04/29/recipe-git-bisect)
