@@ -59,11 +59,11 @@ Here are some cool links. Feel free to add
 
 ### On Balance
 
- * [“Eat, sleep, code, repeat” is such bullshit](https://m.signalvnoise.com/eat-sleep-code-repeat-is-such-bullshit-c2a4d9beaaf5?gi=b31ff00494f)
+ * ["Eat, sleep, code, repeat" is such bullshit](https://m.signalvnoise.com/eat-sleep-code-repeat-is-such-bullshit-c2a4d9beaaf5?gi=b31ff00494f)
  * [Top developers can have a life outside coding](http://www.belenalbeza.com/top-developers-can-have-a-life-outside-coding)
  * [It's Not Your Fault: The Role of Environment in Burnout](https://medium.com/keep-learning-keep-growing/it-s-not-your-fault-7907e40e2226#.wprn1fpft), by Jamis Buck
  * [The Ethics of Unpaid Labor and the OSS Community](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
 
 ### Typography
 
- * [Butterick’S Practical Typography](http://practicaltypography.com/index.html#toc) "This book will make you a bet­ter typographer."
+ * [Butterick's Practical Typography](http://practicaltypography.com/index.html#toc) "This book will make you a bet­ter typographer."
